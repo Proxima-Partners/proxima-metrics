@@ -1,0 +1,688 @@
+item id: 69c0857abbd425ed18ab0470
+field data:
+{
+  "member-only": true,
+  "byline-writer": "699e12d16ef041f10a195450",
+  "website-position": null,
+  "meta-title": null,
+  "meta-description": null,
+  "article-abstract": null,
+  "article-type": "69c0729c8c9a85d5e50afa6a",
+  "subheadline": "in a city that values authenticity above almost everything else, the church's oldest instruction turns out to be its most compelling offer.",
+  "body": "<p>san francisco has always been a city that believes things are possible.</p><p>not naively — this is not a place that takes claims at face value. but underneath the skepticism, there is something genuinely alive here: a hunger for meaning, for community, for lives that actually cohere around something true.</p><p>that hunger isn't hard to find. you see it in the questions that surface in coffee shops and on long walks, in the conversations that start at 11 p.m. and go until two. san franciscans are not, at their core, closed off. they're looking for something worth opening to.</p><p>what they're less moved by is explanation alone. in a city where every idea arrives pre-packaged with its counter-argument, words have to be backed by something.</p><p>what tends to break through is a person whose life tells a story their words didn't have to announce.</p>",
+  "conclusion": "<p>san francisco has always been a city that believes things are possible.</p><p>not naively — this is not a place that takes claims at face value. but underneath the skepticism, there is something genuinely alive here: a hunger for meaning, for community, for lives that actually cohere around something true.</p><p>that hunger isn't hard to find. you see it in the questions that surface in coffee shops and on long walks, in the conversations that start at 11 p.m. and go until two. san franciscans are not, at their core, closed off. they're looking for something worth opening to.</p><p>what they're less moved by is explanation alone. in a city where every idea arrives pre-packaged with its counter-argument, words have to be backed by something.</p><p>what tends to break through is a person whose life tells a story their words didn't have to announce.</p><h3>a city built for this moment</h3><p>for much of modern history, the primary mode of persuasion was intellectual — construct the better argument, marshal the stronger evidence, make the clearer case. that model served well in certain seasons. but something has shifted.</p><p>it isn't that people have stopped caring about truth. if anything, the opposite is happening. people are more attuned than ever to the gap between what someone claims and how they actually live. they're paying closer attention — not less — to whether a person's actions match their convictions.</p><p>in that environment, authenticity isn't just appealing. it's the only currency that holds its value.</p><p>san francisco, with its deep instinct for cutting through pretense, may be unusually well-positioned to recognize something real when it sees it.</p><h3>what jesus said would work</h3><p>on the final evening jesus spent with his closest followers, he gave them a remarkably clear picture of what their community was meant to look like to the world around them. the instruction was simple: love one another — specifically, in the way he had loved them. through that visible, sustained pattern of love, people would recognize something genuine.</p><p>he wasn't describing a communication technique. he was describing a way of being that carries its own credibility.</p><p>the early church writer john returned to this theme across his letters, each time with the same clarity: love that lives only in words is incomplete. its full expression is in action — concrete, unhurried, directed at actual people in actual circumstances.</p><p>this idea did not originate as a response to a cultural moment. but it turns out to be a remarkably accurate description of how trust forms between human beings in every cultural moment — including this one.</p><h3>the power of showing up</h3><p>there's something that happens when a person consistently acts in ways that cost them something, without keeping score. it registers differently than an argument. it doesn't invite debate — it invites curiosity.</p><p>research on how people change their minds tends to confirm what most of us know intuitively: direct persuasion is less effective than sustained contact with someone who lives differently than expected. what moves people, over time, is a relationship in which the other person keeps showing up — present, generous, genuinely interested — without apparent motive.</p><p>that kind of love doesn't need to announce itself. it generates its own questions.</p><h3>ordinary love, remarkable effect</h3><p>what jesus described wasn't complicated. it was structural — built into the daily rhythms of how his followers were meant to move through the world. service over status. presence over performance. real attention to the person in front of you.</p><p>in san francisco, that looks like a community that makes room for people others quietly overlook. it looks like someone who keeps showing up for their block, their building, their colleagues — not as a strategy, but as a natural expression of who they are. it looks like people who are genuinely curious about their neighbors, who linger in conversation, who remember names and stories and small details that matter.</p><p>these things accumulate quietly. and over time, they tell a story that's more compelling than any argument — because it isn't making a case. it's simply living one.</p><h3>the oldest offer, still good</h3><p>the instruction jesus gave that evening has not been updated or improved upon. it was offered once, simply: love one another as i have loved you.</p><p>in a city hungry for authenticity, that instruction turns out to be less a religious obligation and more an invitation into the most credible thing the church has to offer — a community of people whose love is visible enough to make others wonder where it comes from.</p><p>that wonder is, more often than not, where everything begins.</p>",
+  "feature-image": {
+    "fileid": "69c08a5adeb3a902c4d712f2",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69c08a5adeb3a902c4d712f2_neighbors-on-street.webp",
+    "alt": null
+  },
+  "featured-image-alt-text": "people with different diversity laughing on a street enjoying one another",
+  "tags": [
+    "69c085c6f17cb5b3ac8430ab",
+    "69c085b73c89b52a9afbdc95",
+    "69c085d28383a3710d83adf6",
+    "69c085e49b1a83eb3813a04c",
+    "69c085ddd46b33b7eed0d1f7"
+  ],
+  "name": "san francisco is skeptical of words. it's deeply responsive to love.",
+  "slug": "san-francisco-is-skeptical-of-words-its-deeply-responsive-to-love"
+}
+item id: 69c08c9cb952af4c0724f3c0
+field data:
+{
+  "member-only": true,
+  "byline-writer": "699e12d16ef041f10a195450",
+  "website-position": null,
+  "meta-title": null,
+  "meta-description": null,
+  "article-abstract": null,
+  "article-type": "69c072ddb1eb1f2c816f295f",
+  "subheadline": "in a world full of competing explanations, words alone rarely convince anyone. what people trust now is something simpler and harder to fake.",
+  "body": "<p>in his final evening with the disciples, jesus gave an instruction that would define the identity and mission of his followers. he said, <em>“a new commandment i give you: love one another. as i have loved you, so you also must love one another. by this, everyone will know that you are my disciples.”</em> </p><p>this moment occurred shortly before jesus’ arrest and crucifixion. the disciples did not yet understand the significance of what was unfolding. while jesus spoke clearly about what would soon happen, their attention was consumed by confusion and fear. only later would they recognize the weight of his final actions and words.</p><p>among these actions was a striking demonstration of love that would shape how the early church understood the mission of christ’s followers.</p>",
+  "conclusion": "<p>in his final evening with the disciples, jesus gave an instruction that would define the identity and mission of his followers. he said, <em>“a new commandment i give you: love one another. as i have loved you, so you also must love one another. by this everyone will know that you are my disciples.”</em> </p><p>this moment occurred shortly before jesus’ arrest and crucifixion. the disciples did not yet understand the significance of what was unfolding. while jesus spoke clearly about what would soon happen, their attention was consumed by confusion and fear. only later would they recognize the weight of his final actions and words.</p><p>among these actions was a striking demonstration of love that would shape how the early church understood the mission of christ’s followers.</p><h2>love demonstrated through action</h2><p>during the meal, jesus rose from the table, wrapped a towel around his waist, and began washing the disciples’ feet. </p><p>in the culture of that time, washing feet was the task of a servant, not the responsibility of a teacher or master. yet jesus deliberately assumed the role of the lowest servant in the room.</p><p>this act was more than an illustration of humility. it was a visible demonstration of how love operates in practice. jesus did not merely speak about love. he embodied it through service.</p><p>the disciples would later realize the magnitude of this moment. the one they came to believe was god in human form had chosen to serve them in the most ordinary and humble way.</p><p>words would follow, but the action itself became the lasting lesson.</p><h2>the command that defines christian witness</h2><p>shortly after this moment, jesus explained that he would soon leave them. in the midst of their concern about his departure, he gave a clear instruction: they were to continue the pattern of love he had demonstrated.</p><p>the command was simple yet profound. the disciples were to love others in the same way they had been loved by christ. through this pattern of life, people would recognize them as his followers.</p><p>years later, the apostle john reaffirmed this principle in his letter to the church:</p><ul><li><em>“this is the message you have heard from the beginning: we should love one another.”</em></li><li><em>“let us love not in word and speech, but in action and truth.”</em> </li></ul><p>these words clarify that christian love is not primarily emotional or theoretical. it is expressed through concrete actions that place the needs of others above personal status or recognition.</p><h2>a cultural shift in how truth is communicated</h2><p>throughout history, cultures have shifted in how ideas are communicated and understood. during the enlightenment period, western societies increasingly emphasized explanation, argument, and intellectual persuasion as primary means of conveying truth.</p><p>today, however, words alone often carry less authority. information moves rapidly, and competing explanations exist for nearly every claim. as a result, individuals frequently encounter multiple interpretations of the same event or idea.</p><p>in such an environment, persuasion through explanation alone becomes increasingly difficult. words can be debated, reinterpreted, or dismissed.</p><p>authenticity, however, remains difficult to refute. when actions consistently reflect a person’s beliefs, those actions create a compelling witness that words alone cannot provide.</p><h2>love as the enduring strategy</h2><p>the strategy jesus provided has not changed. his followers are called to represent him through acts of love that reflect his character.</p><p>this love is not sentimental or abstract. it is expressed through service, humility, and a willingness to place others first. it appears in ordinary actions that demonstrate genuine concern for the well-being of others.</p><p>while explanation and teaching remain important, the credibility of the christian message is often confirmed through visible expressions of love.</p><p>small acts of service, practiced consistently over time, communicate a powerful story. they demonstrate the reality of the gospel in ways that arguments alone cannot achieve.</p><h2>conclusion</h2><p>jesus did not leave his followers with a complex strategy for representing him in the world. instead, he gave a simple command grounded in his own example: love one another as he has loved us.</p><p>this instruction continues to define the mission of the church. in a world where words are frequently contested, authentic love remains one of the most compelling demonstrations of truth.</p><p>when followers of jesus embody this love through everyday actions, they reflect the character of christ and make his presence visible to the world.</p><p>‍</p>",
+  "feature-image": {
+    "fileid": "69b638ec0f87823c7b02b780",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69b638ec0f87823c7b02b780_helping_thumbnail.webp",
+    "alt": null
+  },
+  "featured-image-alt-text": "an older women and a younger woman walking together in the park have a deep meaningful experience",
+  "tags": [
+    "69c085c6f17cb5b3ac8430ab",
+    "69c085ddd46b33b7eed0d1f7",
+    "69c085b73c89b52a9afbdc95"
+  ],
+  "name": "the most convincing evidence",
+  "slug": "the-most-convincing-evidence"
+}
+item id: 69c0a012486e80f732c20741
+field data:
+{
+  "member-only": true,
+  "byline-writer": "699e12d16ef041f10a195450",
+  "website-position": null,
+  "meta-title": "why san francisco makes it hard to be present with people",
+  "meta-description": "activity has become the default language of relationship in cities like sf. a look at what we lose when busyness replaces presence — and what it takes to pay attention.",
+  "article-abstract": "in a city as fast and optimized as san francisco, activity has quietly become the assumed purpose of spending time with another person. this article examines how urban pace reshapes how people relate to one another — turning presence into a byproduct of productivity and leaving many people lonely despite full calendars. drawing on observations from daily life in the city, it argues that genuine attention to the person in front of you is not a passive act but a deliberate, countercultural one — and perhaps the place where connection actually begins.\n",
+  "article-type": "69c0729c8c9a85d5e50afa6a",
+  "subheadline": "san francisco has made activity the default language of relationship — and the cost of that habit may be larger than we realize.",
+  "body": "<p>there is a question that surfaces almost every time two people in san francisco try to make plans. it is so common that most people never notice it. it goes something like this: <em>so what are we going to do?</em></p><p>not — how are you. not — what's been on your mind. just: what are we going to do.</p><p>it's a small thing. but it points to something larger about how urban life has quietly reshaped the way we relate to one another. in a city defined by speed, efficiency, and an endless stream of things competing for attention, activity has become the assumed purpose of spending time together. we have started to measure the value of a relationship by what it produces — and without noticing, we've made it very difficult to simply be present with another person.</p><p>that confusion has a cost. and it may be larger than most of us realize.</p>",
+  "conclusion": "<p>there is a question that surfaces almost every time two people in san francisco try to make plans. it is so common that most people never notice it. it goes something like this: <em>so what are we going to do?</em></p><p>not — how are you? not — what's been on your mind. just: what are we going to do?</p><p>it's a small thing. but it points to something larger about how urban life has quietly reshaped the way we relate to one another. in a city defined by speed, efficiency, and an endless stream of things competing for attention, activity has become the assumed purpose of spending time together. we have started to measure the value of a relationship by what it produces — and without noticing, we've made it very difficult to simply be present with another person.</p><p>that confusion has a cost. and it may be larger than most of us realize.</p><h2>when activity becomes the point</h2><p>multitasking is not just a habit in cities like san francisco — it is a cultural value. time is finite, demand is constant, and optimizing both has become a kind of literacy. that mindset is useful in a lot of contexts. but it follows us into our relationships, and there it starts to cause problems.</p><p>when we approach people the way we approach a to-do list, we begin to evaluate relationships by their return on investment. is this conversation worth the time? what did we actually accomplish? the benefit of knowing someone gets weighed against the cost of being with them. and slowly, without intending to, we reduce the people in our lives to what we do with them rather than who they are to us.</p><p>the result is a particular kind of loneliness — one that can exist even in a full calendar. you can spend time with people constantly and still feel unseen. you can be busy together without ever really being present with each other.</p><h2>what presence actually requires</h2><p>presence is not the absence of activity. it is a different orientation toward the person in front of you — one that treats them as the point rather than the context.</p><p>it begins with something simple: a deliberate decision to focus on the other person. not on what comes next, not on what you're going to say, not on how the conversation might be useful. just — who is this person, and what do they actually need right now?</p><p>that sounds straightforward. in practice, in a city moving at san francisco's pace, it is one of the harder things to do.</p><h2>the third person in every conversation</h2><p>there is a perspective on human encounter that changes the way presence feels. it holds that when two people meet, something larger is already at work in both of their lives — that each person's story is unfolding within a purpose that precedes and exceeds the conversation itself. which means that before asking <em>what should we do together</em>, there is a prior question worth sitting with: <em>what is already happening here, and am i paying attention to it?</em></p><p>this posture — attentive, unhurried, curious about the other person's inner life — is not passive. it is its own kind of work. it requires setting aside the instinct to produce, to fix, or to fill the silence. it asks you to listen before you respond, and to care before you advise.</p><p>in a city that rewards output, that is a countercultural act.</p><h2>why it matters here</h2><p>san francisco is, by many measures, one of the loneliest cities in the country. it is also one of the most connected. the gap between those two facts is worth sitting with. we have proximity without presence, contact without depth, networks without belonging.</p><p>genuine presence does not, by itself, solve that gap. but it may be the place where the solution begins — in the decision, made one conversation at a time, to treat the person in front of you as worth your full attention.</p><p>not because of what they might offer. not because of what you might accomplish together. but simply because they are there, and so are you, and that turns out to be enough.</p>",
+  "feature-image": {
+    "fileid": "69c0a10088cf686a26cfc6ac",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69c0a10088cf686a26cfc6ac_listening.webp",
+    "alt": null
+  },
+  "featured-image-alt-text": "two people sitting on a bench, listening to one another, intent on hearing each other",
+  "tags": [
+    "69c085d28383a3710d83adf6",
+    "69c085ddd46b33b7eed0d1f7",
+    "69c09000d8c5e5cbe7c9eca5",
+    "69b6523e86b8db23bc40bdb1",
+    "69c0a0d2dad175912e825b7b"
+  ],
+  "name": "the city that fills every silence with something to do",
+  "slug": "the-city-that-fills-every-silence"
+}
+item id: 69c49c306f94ca8631b31210
+field data:
+{
+  "member-only": false,
+  "byline-writer": "699e12d16ef041f10a195450",
+  "website-position": "69c079ec4be66447a9c58690",
+  "meta-title": "nobody knows where the power is | proxima partners",
+  "meta-description": "everyone seems to be chasing power — but what if it doesn't work the way we think? a reflection on leverage, faith, and what actually moves things in san francisco.",
+  "article-abstract": "san francisco runs on the conviction that power is real, locatable, and worth chasing. this article traces that conviction from a british politician who spent his career looking for it, to the ancient city of ephesus — another power center — where a first-century follower of jesus named paul discovered something unsettling: that the power he carried worked differently from the power everyone else was after. drawing on the work of c.s. lewis and the historical record of early christianity, the article argues that the desire for control and the desire for genuine transformation are not the same thing — and that the latter tends to arrive through an open hand rather than a closed fist.",
+  "article-type": "69c072ddb1eb1f2c816f295f",
+  "subheadline": "everyone seems to be chasing something that keeps moving. maybe that's the point.",
+  "body": "<p>a british politician named george brown spent his entire career chasing power. he started in local government, convinced that once he got onto the council, he could change things. but the real decisions happened somewhere else. so he ran for parliament. same story. he pushed his way into the cabinet. still nothing. he ended up deputy prime minister — one step from the top of the entire british government — looked around, and still couldn't find where the power actually was. everyone, he said, just seemed to be doing the next thing that came to hand.</p><p>i read that story recently and sat with it for a while. not because i find british parliamentary history especially gripping, but because it named something i keep bumping into here in san francisco.</p><p>power is supposed to be somewhere. at the top of the org chart. in the right room. with the right people. accessible, finally, once you've done the work to get close enough.</p><p>but what if it doesn't work like that?</p>",
+  "conclusion": "<p><strong>the city that runs on power</strong></p><p>san francisco is not a modest city when it comes to power. within a few square miles you have the machinery of global technology, one of the most politically active urban populations in the country, serious money, serious influence, and an almost theological conviction — shared across almost every ideological faction — that if you can just get the right people into the right positions, things will finally change.</p><p>i moved here from berlin seven years ago, which means i arrived as an outsider trying to read a new culture. and one of the first things i noticed was how much of the city's energy goes into the question of leverage. who has it. how to get it. what to do with it once you do.</p><p>it's not cynical. most of the people i know who are chasing influence here genuinely want to use it well. the question is whether the thing they're chasing actually exists in the form they imagine.</p><p><strong>ephesus had the same obsession</strong></p><p>the ancient city of ephesus was its own kind of power center — religious power, political power, and something the ancient world took with complete seriousness: magical power. practitioners kept expensive scrolls containing names, formulas, and rituals believed to give the holder access to forces beyond ordinary reach. the market was serious and the prices were high. everyone wanted leverage over outcomes.</p><p>into that city came paul — a first-century follower of jesus who had already turned several cities upside down — and what followed is one of the stranger episodes in early christian history. healings. a failed exorcism attempt by a group of practitioners who figured the name of jesus was just another tool to add to their repertoire, only to discover that the spirit they were addressing had no respect for people using the name without the relationship behind it.</p><p>the difference between paul and the scroll-keepers wasn't what they wanted. both wanted to see things change. the difference was that the scroll-keepers wanted power they could own and operate. what paul had wasn't ownable. it came from somewhere else, and it came on terms he didn't set.</p><p><strong>the price of real power</strong></p><p>c.s. lewis defined magic as the attempt to gain power without paying the price of humble submission to the god whose power it is. you locate the lever, you pull it, the result arrives, and the control stays with you. clean. efficient. yours.</p><p>what paul was practicing looked nothing like that. and at some point during his time in ephesus — he doesn't name the crisis specifically, but he describes it as being crushed to the point of despair, certain he was going to die — something broke open in him. whatever happened, it changed how he talked about power for the rest of his life.</p><p>before ephesus, paul wrote about the power of god with confidence and force. after, he wrote about it differently. he started saying things like: \"i will gladly boast of my weaknesses, so that the power of the messiah may rest upon me.\" not despite weakness. through it. the power of jesus, he was discovering, doesn't flow toward people who have secured their position. it flows toward people who have stopped pretending they have one.</p><p>that's a hard thing to sit with. it was hard for paul. it's hard for me.</p><p><strong>what i keep watching here</strong></p><p>i follow jesus in san francisco, which means i spend a lot of time thinking about what that actually looks like in a city that is, on the whole, deeply skeptical of religious claims. i don't experience that skepticism as hostile. if anything, it keeps me honest. it pushes me to ask whether what i believe is actually true, or whether i'm just pulling levers and calling it faith.</p><p>the people i've met here who carry genuine weight — not status, not leveraged influence, but actual gravity that changes the temperature of a room — tend to be people who stopped managing their outcomes quite so tightly. who got interested in something other than their own position. who stayed when it would have been easier to leave. who kept showing up to relationships that didn't advance their career or confirm their existing convictions.</p><p>i think that's what jesus was pointing at when he kept saying, in different ways, that the people who insist on saving their own lives are the ones who lose them. it's not a warning. it's closer to a description of how things actually work.</p><p><strong>an open hand</strong></p><p>i don't have a clean resolution. george brown's question — where is the power? — is real and worth asking. but perhaps it's pointing at the wrong thing. the power that moves things, the kind that actually changes people and neighborhoods and cities, doesn't sit still long enough to be seized. it shows up in the gap between what you planned and what actually happened. it looks, from the outside, a lot like weakness and a lot like trust.</p><p>i've started to notice the moment when i'm trying to pull the lever — when i want the clean transaction, the controlled outcome, the result i can point to. and i've started to wonder whether that's exactly the moment to open my hand rather than close it.</p><p>maybe that's where it starts. not with more leverage. with less.</p>",
+  "feature-image": {
+    "fileid": "69c49bd8195bb226af3c354c",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69c49bd8195bb226af3c354c_protest-sf-climate.webp",
+    "alt": null
+  },
+  "featured-image-alt-text": "individuals banded together to protest hoping that power is in numbers",
+  "tags": [
+    "69c085d28383a3710d83adf6",
+    "69c49df924dc41755e0b8bc2",
+    "69c49e12beca94b04b361ec1",
+    "69c49e25e41167250ba62e6f",
+    "69c33aae5e60542e77d08f86"
+  ],
+  "name": "nobody knows where the power is",
+  "slug": "nobody-knows-where-the-power-is"
+}
+item id: 699e12d16ef041f10a195464
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": null,
+  "meta-description": null,
+  "author": "699e12d16ef041f10a195461",
+  "item-category": "699e12d16ef041f10a195475",
+  "tabs": null,
+  "main-content": "<p>years ago, i changed my reason for going to the ballpark. instead of attending simply to watch baseball, i began going to love people. the bartender noticed. conversations deepened gradually. nothing dramatic. no clear turning point. just presence.</p><p>and i had to confront something in myself. i wanted results. i wanted visible fruit. i wanted clarity. seeds, however, disappear before they grow. growth hides underground long before it becomes visible.</p><p>in san francisco, many are in process. some are quietly deconstructing faith. others are curious but cautious. god is already at work in their stories long before i arrive. my role is not to accelerate what he is maturing. it is to join him.</p><p>i am also in process. my motives are still being purified. my desire for measurable impact still competes with simple obedience. <strong>grace honors process because god is patient with me.</strong> so we stay present. we walk slowly with others. and we trust the spirit to bring fruit in his time.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "\"our role is not to force fruit. it is to join the spirit.\"",
+  "post-brief": "years ago, i changed my reason for going to the ballpark. instead of attending simply to watch baseball, i began going to love people. conversations deepened gradually. nothing dramatic. just presence.",
+  "main-image": {
+    "fileid": "699e12d16ef041f10a195430",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/699e12d16ef041f10a195430_photo-sf_3.webp",
+    "alt": null
+  },
+  "title-byline": "growth hides underground long before it becomes visible.",
+  "views": null,
+  "name": "trusting the slow work of god",
+  "slug": "trusting-the-slow-work-of-god"
+}
+item id: 699e12d16ef041f10a195465
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": null,
+  "meta-description": null,
+  "author": "699e12d16ef041f10a195461",
+  "item-category": "699e12d16ef041f10a195475",
+  "tabs": null,
+  "main-content": "<p>there have been seasons when i questioned whether i fit anywhere clearly. i tried to narrow my calling into something easily defined. a title. a role. a description others could quickly understand. i wanted alignment that felt stable.</p><p>and yet the lord kept pressing me toward something less tidy and more personal. i once wrote in my journal that i was not following a plan, but walking a path illuminated solely by jesus. that path has often felt unconventional. at times misunderstood.</p><p>comparison creeps in quietly. i see others with clear lanes and measurable outcomes. i wonder if my wiring is too strategic, too future-oriented, too different. when i attempt to conform, something in me grows restless.</p><p>the body of christ does not need replicas. it needs surrendered distinctness. when believers live from who they were created to be, christ becomes visible in fresh ways. <strong>true unity is not uniformity. it is spirit-shaped uniqueness woven together in love.</strong> my task is not to fit someone else’s mold. it is to walk faithfully in the light given to me.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "\"true unity is not uniformity. it is spirit-shaped uniqueness woven together in love.\"",
+  "post-brief": "there have been seasons when i questioned whether i fit anywhere clearly. i tried to narrow my calling into something easily defined. a title. a role. a description others could quickly understand.",
+  "main-image": {
+    "fileid": "699e12d16ef041f10a19542f",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/699e12d16ef041f10a19542f_photo-sf_2.webp",
+    "alt": null
+  },
+  "title-byline": "true unity is not uniformity. it is spirit-shaped uniqueness woven together in love.",
+  "views": null,
+  "name": "fully alive in your calling",
+  "slug": "fully-alive-in-your-calling"
+}
+item id: 69a13b9dd08fb21432619c2e
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": null,
+  "meta-description": null,
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "699e12d16ef041f10a195475",
+  "tabs": null,
+  "main-content": "<p>there is a quiet temptation in christian work that i do not always recognize at first. it feels noble. it sounds spiritual. but underneath it lives something smaller than the kingdom of god. i can want the work to succeed because it validates effort. i can want growth because it reassures me. and slowly, without intending to, my own small kingdom begins to sit beside his.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "“if christ is known and loved, that is enough.”",
+  "post-brief": "there is a quiet temptation in christian work that i do not always recognize at first. it feels noble. it sounds spiritual. but underneath it lives something smaller than the kingdom of god. ",
+  "main-image": {
+    "fileid": "69a14a54173851ef748e21cf",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69a14a54173851ef748e21cf_main_photo_1_1.webp",
+    "alt": null
+  },
+  "title-byline": "i have learned that it is possible to do christian work and still protect my own kingdom.",
+  "views": null,
+  "name": "a kingdom before my own",
+  "slug": "a-kingdom-before-my-own"
+}
+item id: 69a13bf2e2587180bb136193
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": null,
+  "meta-description": null,
+  "author": "699e12d16ef041f10a195468",
+  "item-category": "699e12d16ef041f10a195475",
+  "tabs": null,
+  "main-content": "<p>there is energy in fresh vision and visible momentum. but over time, i have come to see something quieter and just as holy: strengthening what already exists.</p><p>the local church in post-christian contexts often feels small against cultural currents. pastors grow weary. congregations question their relevance. influence narrows. and yet, jesus did not abandon his church. he calls her his body. a local church orientation reminds me that our role is not to replace what stands, but to serve it with humility and courage. it would be wrong to see slow growth as failure, yet equally wrong to ignore the need for renewal.</p><p>so we bring a missionary lens into familiar spaces. we help congregations see themselves as sent people in their own neighborhoods. we offer tools, perspective, and presence, not control. <strong>when the local church flourishes, the gospel has a home.</strong> and that home matters more than novelty ever will.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "“when the local church flourishes, the gospel has a home.”",
+  "post-brief": "there is energy in fresh vision and visible momentum. but over time, i have come to see something quieter and just as holy: strengthening what already exists. the local church in post-christian contexts often feels small against cultural currents.",
+  "main-image": {
+    "fileid": "69a14a77bcbee5b0208197a9",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69a14a77bcbee5b0208197a9_main_photo_2.webp",
+    "alt": null
+  },
+  "title-byline": "for years i assumed that faithfulness meant starting something new.",
+  "views": null,
+  "name": "strengthening what already stands",
+  "slug": "strengthening-what-already-stands"
+}
+item id: 69a13c9812b501b573d52ca6
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": null,
+  "meta-description": null,
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69a146b6c0ee297129c45546",
+  "tabs": null,
+  "main-content": "<p>i have felt that tension when everything looked productive on the outside, but something felt thin underneath. the systems can function smoothly. the plans can unfold with clarity. the visible results can even suggest fruitfulness. and yet, in the middle of all that movement, the person standing in front of me can pass by unnoticed.</p><p>‍</p>",
+  "post-content-members-only": "<p>jesus never said the world would recognize us by precision or polish. he said they would know us by our love. a relational orientation keeps drawing me back to <em>philippians 2</em>, where humility and self-giving reveal what maturity actually looks like. it would be wrong to dismiss structure as unnecessary, yet equally wrong to let structure substitute for affection. when love recedes, activity may continue, but the heart of the work quietly erodes.</p><p>so we choose a different pace. we listen before offering answers. we see people as image-bearers, not outcomes. <strong>love is not a method we apply. it is the evidence that we remain in christ.</strong> when love steadies the mission, performance loosens its grip and belonging takes root again.</p>",
+  "featured-quote": "“love is not a tactic. it is the evidence that we remain in christ.”",
+  "post-brief": "structures can be sound. plans can be strategic. outcomes can appear fruitful. and yet, the person in front of me can remain unseen. jesus did not say the world would know us by our excellence.",
+  "main-image": {
+    "fileid": "69a1462312b501b573d65046",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69a1462312b501b573d65046_main_photo_1.webp",
+    "alt": null
+  },
+  "title-byline": "it is possible to be efficient and still fail at love.",
+  "views": null,
+  "name": "love at the center",
+  "slug": "love-at-the-center"
+}
+item id: 69a13cdf5bf606d1ab4820f9
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": null,
+  "meta-description": null,
+  "author": "699e12d16ef041f10a195461",
+  "item-category": "699e12d16ef041f10a195476",
+  "tabs": null,
+  "main-content": "<p>cultural assumptions shift quickly. words mean different things than they did a decade ago. questions surface that once seemed settled. if i am not careful, i can either cling to old answers or drift without anchor.</p><p>‍</p>",
+  "post-content-members-only": "<p>a learning and growth orientation requires both humility and rootedness. it would be wrong to assume that experience guarantees wisdom, yet equally wrong to chase relevance without theological depth. scripture does not change, but our understanding must deepen as context shifts.</p><p>so we study culture with open eyes while remaining grounded in christ. we listen carefully to the stories people carry. we ask what questions they are actually asking. and we allow the spirit to renew our minds. <strong>remaining in christ does not make us rigid. it makes us rooted enough to grow.</strong> in that growth, we discover fresh ways to love people without abandoning truth.</p>",
+  "featured-quote": "“remaining in christ does not make us rigid. it makes us rooted enough to grow.”",
+  "post-brief": "cultural assumptions shift quickly. words mean different things than they did a decade ago. questions surface that once seemed settled. if i am not careful, i can either cling to old answers or drift without an anchor.",
+  "main-image": {
+    "fileid": "69a1447e2742f901b9541b4e",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69a1447e2742f901b9541b4e_photo-sf_main3.webp",
+    "alt": null
+  },
+  "title-byline": "san francisco has a way of exposing what i do not understand.",
+  "views": null,
+  "name": "rooted and teachable",
+  "slug": "rooted-and-teachable"
+}
+item id: 69a13d2c32a61fd1ab075d2b
+field data:
+{
+  "member-only": true,
+  "website-position": "69c079d6d8c5e5cbe7c824b6",
+  "meta-title": "i had faith. as long as i could see it working. | proxima sf",
+  "meta-description": "i said i had faith. and i did — as long as i could reasonably see it happening. that's not quite the same thing.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c08fd080415a7553051e0c",
+  "tabs": [
+    "69c085d28383a3710d83adf6",
+    "69c09dca3cac7986ad2990b4",
+    "69c09def8ca16615fa39c126",
+    "69c09e12ceecbebcef08d176"
+  ],
+  "main-content": "<p>i had it all mapped out.</p><p>we were excited — genuinely excited — about what the coming year held. i could see what god was doing. i had the vision, the team, the next steps. and i had the faith to match.</p><p>then, without any warning, the plan fell apart.</p><p>not slowly. not with signals i could have caught earlier. just — gone.</p><p>what surprised me wasn't the disruption itself. it was the confession it pulled out of me. because when i was honest, i had to admit something: my faith had been real — but it had also been reasonable. i could see how it might work. i could trace the path from here to there. the faith and the forecast had been pointing in the same direction, and i hadn't noticed how much the second one was carrying the first.</p><p>that's an uncomfortable thing to sit with. but i think it's the right one.</p><p>we confuse a responsible plan with proof that god is in it. responsibility matters — i'm not arguing for carelessness. but sometimes what god asks for doesn't look responsible. it doesn't fit the timeline. it moves before the conditions are right. and that's exactly what makes it hard to call faith.</p><p>wisdom is willing to move when the time is right. comfort waits until the outcome is predictable. i've confused the two more times than i'd like to admit — because waiting for certainty is easy to dress up as faithfulness. but faithfulness and forecasting are not the same posture, even when they look the same from the outside.</p><p><strong>faith that only functions when the outcome is visible isn't really faith — it's optimism with good theology attached.</strong> certainty isn't about seeing the path clearly. it's about knowing the one who holds it. and what i know — <em>who</em> i know — doesn't change when the plan falls apart.</p><p>when the path forward costs something real, <em>\"the lord is my light and my salvation\"</em> stops being a verse i know and becomes a choice i make. faith is not recklessness. it is courageous surrender — stepping forward carefully, but stepping forward nonetheless, trusting that god provides what aligns with his will.</p><p>the question is simple and not easy: do i have faith, or do i have faith in what i can reasonably see happening?</p><p>because those two things feel identical — right up until the plan falls apart.</p><p>‍</p>",
+  "post-content-members-only": "<p>i had it all mapped out. we were excited — genuinely excited — about what the coming year held. i could see what god was doing. i had the vision, the team, the next steps. and i had the faith to match. then, without any warning, the plan fell apart. what surprised me wasn't the disruption itself. it was the confession it pulled out of me…</p>",
+  "featured-quote": "\"faith that only functions when the outcome is visible isn't really faith — it's optimism with good theology attached.\"",
+  "post-brief": "my faith was real. but if i'm honest, it was also reasonable — i could see how it might work. it took the plan falling apart to show me the difference.",
+  "main-image": {
+    "fileid": "69a1443a5b88851e923c88ce",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69a1443a5b88851e923c88ce_photo-sf_main1.webp",
+    "alt": null
+  },
+  "title-byline": "standing in an uncomfortable place, expecting to take a leap. is faith always responsible?",
+  "views": null,
+  "name": "i had faith. as long as i could see it working",
+  "slug": "i-had-faith-as-long-as-i-could-see-it-working"
+}
+item id: 69a13d78f9e19cce0bc1aa35
+field data:
+{
+  "member-only": true,
+  "website-position": "69c079983f5ac86fd2963f2d",
+  "meta-title": "what the city knows that i don't | proxima partners",
+  "meta-description": "every place carries its own history, wounds, and beauty. what changes when we arrive somewhere new with questions instead of answers?",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c092cd5c80cc7ef09d9860",
+  "tabs": [
+    "69c085d28383a3710d83adf6",
+    "69c092e8c65c13fe74f33726",
+    "69c092f63adef1023cdb365b",
+    "69c0930345fcea86fbc5577d",
+    "69c09310bbd425ed18abf133"
+  ],
+  "main-content": "<p>i had done this before. different city, different community — but the same kind of work, and it had gone well. so when i arrived in san francisco, i came prepared. i had a framework, a track record, and a clear sense of what was needed.</p><p>within six months, i was confused. the approach that had opened doors elsewhere kept finding them closed here.</p><p>that confusion, it turned out, was the most important thing that happened to me.</p><p>there's a particular kind of confidence that comes from experience. it's not arrogance — it's simply the accumulation of what has worked. you've seen enough to recognize patterns. you know how things tend to go. and in many ways, that experience is genuinely valuable.</p><p>but every place carries its own history. its own wounds. its own way of seeing. san francisco is not portland. the tenderloin is not the richmond. the church that flourished in one neighborhood will not automatically flourish in another. and the person who arrives already knowing what a community needs often misses what the community is already doing.</p><p>i started over — not with a new program, but with a new posture. i found a local pastor who had served the same six-block radius for twenty years. i stopped presenting and started asking. i learned that the neighborhood had seen outside helpers come and go for decades, each one carrying tools built for somewhere else.</p><p><em>\"the spirit was already here before you arrived,\"</em> he told me one afternoon. <em>\"your job is to find out where he's been working, not to start something new.\"</em></p><p>i didn't forget that.</p><p><strong>presence without listening isn't really presence — it's projection.</strong> when i enter a neighborhood, a conversation, or a partnership assuming i already understand the landscape, i risk becoming one more voice that speaks before it sees. a contextual orientation begins not with a plan but with a question: <em>what is already here?</em></p><p>this kind of listening isn't passive. it takes discipline to set aside what has worked elsewhere. it requires trusting that the people who live and serve in a place understand it in ways that no amount of outside experience can replicate. i observe. i ask. i collaborate with those who have stayed when others left.</p><p>what would it look like to enter your next conversation — with a neighbor, a colleague, a community you're just beginning to know — as a student rather than an expert? not abandoning what you've learned, but holding it loosely enough to be surprised.</p><p>the spirit is never absent from a place. the question is whether we arrive humble enough to notice.</p>",
+  "post-content-members-only": "<p>i had done this before. different city, different community — but the same kind of work, and it had gone well. so when i arrived in san francisco, i came prepared. i had a framework, a track record, and a clear sense of what was needed. within six months, i was confused. the approach that had opened doors elsewhere kept finding them closed here. that confusion, it turned out, was the most important thing that happened to me…</p>",
+  "featured-quote": "\"presence without listening isn't really presence — it's projection.\"",
+  "post-brief": "what happens when the approach that worked somewhere else stops working here? sometimes the city itself is the teacher — if we're willing to be students.",
+  "main-image": {
+    "fileid": "69a14423499474e710b542e0",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69a14423499474e710b542e0_photo-sf_main5.webp",
+    "alt": null
+  },
+  "title-byline": "two work colleagues in a conversation. one intently listening to the other to learn",
+  "views": null,
+  "name": "what the city knows that i don't",
+  "slug": "what-the-city-knows-that-i-dont"
+}
+item id: 69a13dc06cb2fc36f09aa468
+field data:
+{
+  "member-only": true,
+  "website-position": "69c079d6d8c5e5cbe7c824b6",
+  "meta-title": "when going it alone stops working | proxima partners",
+  "meta-description": "there's a quiet efficiency in working solo — until there isn't. this post explores what shifts when we choose partnership over isolation in a fragmented city.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c08fd080415a7553051e0c",
+  "tabs": [
+    "69c085d28383a3710d83adf6",
+    "69c08ff238466fd11de5088b",
+    "69c09000d8c5e5cbe7c9eca5",
+    "69c0900d385ce2c1be1ae158",
+    "69c0902460b1382abc62d0be"
+  ],
+  "main-content": "<p>there's a kind of efficiency that comes from working alone. decisions move faster. vision stays clean. you don't have to explain yourself or slow down for anyone else. for a while, it genuinely feels like freedom.</p><p>but somewhere along the way, that freedom starts to feel like something else. the clarity you protected begins to narrow. the speed you valued starts to leave people behind. and a quiet question surfaces that's harder to ignore: <em>is this really working — or am i just working alone?</em></p><p>isolation has a way of hiding its costs. it can feel like strength. but if we're honest, what it often conceals is a quieter thing — the kind of pride that prefers control to collaboration.</p><p>i think of a community organizer i know here in the mission. she'd spent years building something genuinely good — a network of neighbors looking out for one another, showing up when it mattered. she had a real gift for it. she also had a habit of doing it mostly by herself.</p><p>other organizations worked nearby. some shared her values almost entirely. but she kept her distance. collaboration felt like compromise. coordination felt like competition. so she kept her head down and kept building.</p><p>then the demands of one particularly brutal year became more than one person could hold. she reached out to a neighboring organization, half-expecting awkwardness. what she found instead was relief. they'd been hoping to connect for a long time.</p><p><em>\"i thought working together would slow me down,\"</em> she told me later. <em>\"it turned out it was the only way to keep going.\"</em></p><p>she didn't lose her vision when she invited others in. she found it had more room to breathe.</p><p><strong>there's something in that story that points toward a larger truth: we are not built for solitary mission.</strong> the people laboring nearby are not competition — they are collaborators waiting to be found. a partnership orientation isn't strategic compromise. it's an honest reckoning with how things actually work. when we pursue relationships built on shared values and honest communication, sustainability increases. belonging deepens. and the rhythms we build together tend to reflect grace rather than transaction.</p><p>redemptive partnership isn't about sharing results. it's about sharing the journey.</p><p>who is working near you right now that you've kept at arm's length? perhaps a past collaboration ended badly and the instinct to self-protect makes sense. but consider: what would it look like to build a simple rhythm with just one person whose work runs parallel to yours?</p><p>not a merger. not a committee. just a relationship — one honest conversation at a time. the question isn't whether you <em>could</em> do this alone. it's whether alone is actually what the work requires.</p><p>in a fragmented city, there is something quietly powerful about people choosing to work <em>with</em> rather than <em>past</em> each other. that kind of unity doesn't just sustain the work. in the end, it becomes part of the testimony.</p>",
+  "post-content-members-only": "<p>there's a kind of efficiency that comes from working alone. decisions move faster. vision stays clean. you don't have to explain yourself or slow down for anyone else. for a while, it genuinely feels like freedom. but somewhere along the way, that freedom starts to feel like something else. the clarity you protected begins to narrow. the speed you valued starts to leave people behind. and a quiet question surfaces that's harder to ignore…</p>",
+  "featured-quote": "\"she didn't lose her vision when she invited others in. she found it had more room to breathe.\"",
+  "post-brief": "there's a quiet efficiency in going it alone — until there isn't. what changes when we stop treating the people nearby as competition and start seeing them as collaborators?",
+  "main-image": {
+    "fileid": "69a1437daefc1b3b3e268b07",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69a1437daefc1b3b3e268b07_photo-sf_main6.webp",
+    "alt": null
+  },
+  "title-byline": "volunteers gathering together to tackle a community project. working together is better than working alone.",
+  "views": null,
+  "name": "when going it alone stops working",
+  "slug": "when-going-it-alone-stops-working"
+}
+item id: 69c22c85faf99dd6a77810dc
+field data:
+{
+  "member-only": true,
+  "website-position": "69c079ec4be66447a9c58690",
+  "meta-title": "the people on my block every morning | poxima sf",
+  "meta-description": "san francisco is one of the most diverse places in the country. but the diversity that matters most isn’t a statistic. it’s who’s standing next to you.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c221e3059edf6459bc6a85",
+  "tabs": [
+    "69c085d28383a3710d83adf6",
+    "69c22206c7ede1d4fc6a5fa1",
+    "69c09000d8c5e5cbe7c9eca5",
+    "69c085ddd46b33b7eed0d1f7",
+    "69c33aae5e60542e77d08f86"
+  ],
+  "main-content": "<p>i walk a lot in this city. usually with the dog. usuallywithout a plan.</p><p>some mornings i pass five or six people before i reach thecorner, and i find myself doing the thing you’re not supposed to admit: i’mquietly cataloguing them. the older woman with the grocery cart, muttering toherself. the guy in the suit on his phone, not looking up. two teenagerslaughing about something i can’t hear. a man sleeping in a doorway with asleeping bag pulled over his head.</p><p>all neighbors. all within a block of where i live.</p><p>san francisco has a reputation for diversity, and thestatistics back it up. ethnic diversity. economic diversity. culturaldiversity. sexuality, lifestyle, politics. you can read the numbers and feellike you understand something. but numbers don’t walk the streets with you.</p><p>what the numbers don’t tell you is what it actually feels liketo live alongside people whose lives look almost nothing like yours. because inmost cities, that difference tends to sort itself out. people cluster.neighborhoods become legible. you can live comfortably inside a city ofmillions and rarely be surprised by who’s next to you.</p><p>san francisco resists that. not perfectly, and not withoutcontradiction. but there is something about this place that keeps colliding youwith the actual range of human life. the rainbow flag next to the buddhistshrine. the luxury condo above the sro. the dog park where the tech worker andthe unhoused man both come, both regular, both looking for something like peacefor an hour.</p><p>i’ve been here long enough that i used to stop noticing.that’s the thing about living anywhere for a while. the remarkable becomesroutine. the stranger on the corner is just another corner.</p><p>but lately i’ve been trying to slow down enough to actuallysee who is around me. not to figure them out. not to help them. just torecognize that they are there. that we share this block, this neighborhood,this strange and gorgeous and broken city.</p><p>perhaps that’s the beginning of something. not a program or astrategy. just the honest acknowledgment that the person waiting for the samebus is actually your neighbor. not a category. not a demographic. a person.</p><p>i don’t always know what to do with that. most mornings i walkpast and keep going. but some mornings i notice something shifts. a nod. a helddoor. the small recognition that the distance between us is smaller than itlooks.</p><p>i’m still learning what it means to live in a place like this.but i think it starts there, on the sidewalk, with whoever happens to bestanding nearby.</p><p>‍</p>",
+  "post-content-members-only": "<p><em>i walk a lot in this city. usually with the dog. usually without a plan. some mornings i pass five or six people before i reach the corner, and i find myself doing the thing you’re not supposed to admit: i’m quietly cataloguing them. the older woman with the grocery cart, muttering toherself. the guy in the suit on his phone, not looking up. two teenagerslaughing about something i can’t hear. all neighbors. all within a block of where i live.</em></p>",
+  "featured-quote": "“numbers don’t walk the streets with you.”",
+  "post-brief": "san francisco is one of the most diverse places in the country. but statistics don’t tell you what it actually feels like to live alongside people whose lives look nothing like yours. mike edwards reflects on what it takes to really see your neighbors.",
+  "main-image": {
+    "fileid": "69c22c3dd8585d8deb2790dd",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69c22c3dd8585d8deb2790dd_people-talking.webp",
+    "alt": null
+  },
+  "title-byline": "people talking on sidewalk in a chance encounter enjoing the conversation",
+  "views": null,
+  "name": "the people on my block every morning",
+  "slug": "the-people-on-my-block-every-morning"
+}
+item id: 69c33d75f811ba0e5a74202b
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "he knew jesus. he just didn’t know what to look for.",
+  "meta-description": "a conversation in san francisco about the holy spirit — and what changes when you finally have a perspective for what’s already happening around you",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c08fd080415a7553051e0c",
+  "tabs": [
+    "69c085d28383a3710d83adf6",
+    "69c33a9880a8a270f1d054bf",
+    "69c33aae5e60542e77d08f86",
+    "69c33ad958623c065983ef30",
+    "69c085ddd46b33b7eed0d1f7"
+  ],
+  "main-content": "<p>we were somewhere in the middle of a long conversation when my new friend said something that stayed with me. he’d been following jesus for years. he had good theology, a real relationship, genuine faith. but nobody had ever handed him a perspective for watching god work in ordinary life. he hadn’t known that was something you could do.</p><p>i didn’t grow up with that perspective either. someone had to give it to me.</p><p>there’s a moment in acts where paul arrives in ephesus and meets a small group of believers who are sincere but incomplete. they know the beginning of the story. what they’re missing is what came next — the spirit, present and active, not as a doctrine to affirm but as a relationship to live inside. n.t. wright reads it this way: luke isn’t just introducing paul’s work in ephesus. he’s showing that from the very start, paul was concerned with the spirit’s actual work — in individual lives, and out into the wider community.</p><p>that gap — between knowing about something and having a perspective that makes it visible — is what my friend was sitting in.</p><p>he’s not unusual. most people i talk with in san francisco who follow jesus can name their faith clearly. what’s harder to name is where jesus shows up on a tuesday. in a stranger’s unexpected kindness. in the conversation that goes somewhere you didn’t plan. in the thing that stirs in you before you’ve had time to think about it.</p><p>“he will guide you into all truth,” jesus says of the spirit in john 16. not explain. not inform. guide — present, directional, ongoing.</p><p>my friend had never been given that perspective. so he hadn’t looked.</p><p>what shifted in our conversation wasn’t a new piece of theology. it was closer to a new perspective. a way of seeing he hadn’t been handed before. once you know the kingdom of god is moving around you, ordinary moments stop being background noise. the conversation that goes somewhere unexpected. the pull toward a stranger. the thing that stirs in you before you’ve had time to explain it. these become something worth paying attention to.</p><p>i left without knowing if any of it landed. that’s usually how it goes.</p><p>but i’ve been thinking about what it costs to go years with genuine faith and never have someone say: the kingdom of god is already moving around you. you’re allowed to look for it.</p><p>what would change for you if that were the perspective you carried into tomorrow?</p><p>perhaps not everything. but perhaps enough.</p>",
+  "post-content-members-only": "<p>we were somewhere in the middle of a long conversation when my new friend said something that stayed with me. he’d been following jesus for years. he had good theology, a real relationship, genuine faith. but nobody had ever handed him a perspective for watching god work in ordinary life. he hadn’t known that was something you could do.</p>",
+  "featured-quote": "“the kingdom of god is already moving around you. you’re allowed to look for it.”",
+  "post-brief": "he had real faith — he just didn’t know what to look for. a conversation in san francisco about the perspective that changes how you see everything.",
+  "main-image": {
+    "fileid": "69c33d4b8d6108be371bdba3",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69c33d4b8d6108be371bdba3_a-friend-posing.webp",
+    "alt": null
+  },
+  "title-byline": "a friend letting me take his photo after a ich, deep conversation",
+  "views": null,
+  "name": "what my friend already knew and somehow missed",
+  "slug": "noticing-kingdom-god-san-francisco"
+}
+item id: 69c8db73d4924a12aea3eff6
+field data:
+{
+  "member-only": true,
+  "website-position": null,
+  "meta-title": "what a saturday crowd made me think about palm sunday",
+  "meta-description": "a crowd spilled out of a bar near the ballpark, loud with shared expectation. it made me think about palm sunday — and what we carry into a week hoping it will deliver.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c092cd5c80cc7ef09d9860",
+  "tabs": [
+    "69c09000d8c5e5cbe7c9eca5",
+    "69c0900d385ce2c1be1ae158",
+    "69c33aae5e60542e77d08f86",
+    "69c09dca3cac7986ad2990b4",
+    "69c49e12beca94b04b361ec1"
+  ],
+  "main-content": "<p>i wasn't expecting a crowd on saturday afternoon.</p><p>they had spilled out of a bar near the ballpark — jerseys, drinks, loud in that particular way a city gets loud when it believes something good is about to happen. the giants were playing. sun off the bay, people pressed together with a shared reason to be there. i stopped for a moment and watched. not with judgment. more like recognition. there's something i love about a city that still knows how to gather.</p><p>and then i thought about palm sunday.</p><p>i've been sitting with that story anyway, as this week arrives. jesus rode into jerusalem on a donkey while people lined the road, waving branches, shouting. a crowd. a procession. a city gathered with a shared reason to be there. expectations running at their highest. the one they had been waiting for was finally here.</p><p>what they wanted, mostly, was rescue. a king who would fix things. set things right. drive out the occupiers, restore the nation, return the city to what it was supposed to be. the branches they were waving weren't only celebration. they were demand. <em>do what we brought you here to do.</em></p><p><strong>i find myself thinking: we haven't changed much.</strong></p><p>not because san francisco is politically naive — it isn't. but because the shape of the hope is the same. we carry things into a week expecting them to deliver. a relationship, a career move, a season opener. we arrive with noise and branches and a specific outcome in mind. we want the story to go the way we need it to go.</p><p>what's strange about palm sunday — what makes it worth sitting with — is that jesus didn't correct the crowd's joy. he let them wave. he rode in. he received it. and then the week went somewhere no one in that crowd had planned for.</p><p>perhaps that's the hardest part of holy week. not that hope is wrong. but that the hope we carry in is rarely the hope that comes out the other side.</p><p>i don't know what you're carrying into this week. i'm carrying a few things myself, and i'm not sure any of them are going to resolve the way i'd like. but there's something in this story i keep returning to: the crowd wasn't wrong to gather. they were wrong about what gathering would cost.</p><p>maybe the week ahead isn't about having the right expectations. maybe it's about being willing to stay when ours don't pan out.</p>",
+  "post-content-members-only": "<p>i wasn't expecting a crowd on saturday afternoon. they had spilled out of a bar near the ballpark — jerseys, drinks, loud in that particular way a city gets loud when it believes something good is about to happen. the giants were playing. sun off the bay, people pressed together with a shared reason to be there. i stopped and watched. not with judgment. more like recognition.</p>",
+  "featured-quote": "\"the crowd wasn't wrong to gather. they were wrong about what gathering would cost.\"",
+  "post-brief": "a crowd near the ballpark on saturday made me think about palm sunday. both had the same shape of hope. what we carry into a week — and what comes out the other side — isn't always the same thing.",
+  "main-image": {
+    "fileid": "69c8dbb1256eb696dbb5ac4c",
+    "url": "https://cdn.prod.website-files.com/699e12d16ef041f10a19533c/69c8dbb1256eb696dbb5ac4c_photo-sf_3.webp",
+    "alt": null
+  },
+  "title-byline": "fans on their feet inside a packed baseball stadium on a sunny afternoon, arms raised toward a bright green field below — a city gathered, expectant, wanting the story to go a certain way.",
+  "views": null,
+  "name": "what the crowd on saturday made me think about",
+  "slug": "crowd-saturday-palm-sunday-san-francisco"
+}
+item id: 69cacdf1cdcf2769f062ac4f
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "what did jesus actually mean by love? | proxima partners",
+  "meta-description": "jesus defines love in a way most of us would rather not think about. here's what he actually said — and why it changes everything.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c08fd080415a7553051e0c",
+  "tabs": [
+    "69c22206c7ede1d4fc6a5fa1",
+    "69c09dca3cac7986ad2990b4",
+    "69c0900d385ce2c1be1ae158",
+    "69c085d28383a3710d83adf6",
+    "69c33aae5e60542e77d08f86",
+    "69c085ddd46b33b7eed0d1f7",
+    "69c0a0d2dad175912e825b7b"
+  ],
+  "main-content": "<p>i have a neighbor i don't know. he passes my building most mornings on howard street — same time, same direction, same preoccupied pace. i've never learned his name. i've never made a real effort to.</p><p>i tell myself this is fine. san francisco is a city of polite strangers. people here mind their own business, and that is considered a form of respect.</p><p>but then i read what jesus said, and i can't quite settle back into comfortable.</p><p>in the sermon on the mount, jesus looks at his listeners and says something that should have cleared the room: love your enemies. not tolerate them. not forgive them when you feel ready. love them — actively, concretely, in a way that costs you something.</p><p><em>\"you have heard that it was said, love your neighbor and hate your enemy. but i tell you: love your enemies and pray for those who persecute you.\"</em></p><p>he's not describing an emotion. he's describing a practice. and then, in the same breath, he raises the bar even further: if you love only the people who love you back, what exactly are you doing that anyone else isn't?</p><p>that's the question i keep tripping over.</p><p>because the natural thing — the obvious thing — is to love people who love you back. loyalty, affection, belonging: all of it runs on reciprocity. you return my calls and i return yours. you show up for me and i show up for you. this is not a character flaw. it's how most human relationship works.</p><p>what jesus describes is something else. it's love directed toward people who haven't earned it, who won't return it, who may actively oppose you. not as a one-time act of heroism — as a way of living.</p><p><strong>if you love only the people who love you back, what exactly are you doing that anyone else isn't?</strong></p><p>i don't think i do this well. most days i love the people who are easy to love. i stay kind with people who stay kind with me. and the stranger on howard street? i walk past him at the same time every morning and we have never once exchanged names.</p><p>perhaps that's where this starts — not with enemies, but with the ordinary people i've decided not to see. the ones who don't make demands, so i never have to consider them. the ones who are present but invisible in my daily life.</p><p>jesus seems to suggest that the reach of our love says something real about us. not who we are at our best, on our best days, toward our best people. but who we are toward everyone else.</p><p>that's still unresolved for me. but i think it's worth walking with — the next time i'm on howard street.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "\"if you love only the people who love you back, what exactly are you doing that anyone else isn't?\"",
+  "post-brief": "i have a neighbor i don't know. he passes my building most mornings on howard street. i've never learned his name. i've never made a real effort to. but then i read what jesus said, and i can't quite settle back into comfortable.",
+  "main-image": null,
+  "title-byline": "a man walks alone along a quiet san francisco city street in the early morning, suggesting the daily routines and overlooked encounters that shape urban life.",
+  "views": null,
+  "name": "what did jesus actually mean by love?",
+  "slug": "what-did-jesus-mean-by-love"
+}
+item id: 69cace0989dc95fccb802179
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "where we draw lines (and why) | proxima partners",
+  "meta-description": "we all have people we love easily, people we tolerate, and people we’ve quietly decided to avoid. the question is what we do with the last group.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c221e3059edf6459bc6a85",
+  "tabs": [
+    "69c22206c7ede1d4fc6a5fa1",
+    "69c0900d385ce2c1be1ae158",
+    "69c09000d8c5e5cbe7c9eca5",
+    "69c085d28383a3710d83adf6",
+    "69c33aae5e60542e77d08f86",
+    "69c085ddd46b33b7eed0d1f7",
+    "69c0a0d2dad175912e825b7b",
+    "69c09dca3cac7986ad2990b4"
+  ],
+  "main-content": "<p>there is someone in my building i have been avoiding for about a year. nothing dramatic happened — no falling out, no confrontation. she said something once that landed wrong, i pulled back, and then the distance became the default. now when i hear her in the hallway i wait an extra beat before opening my door.</p><p>i haven't told anyone this. it sounds small when i say it. but it has been a year.</p><p>we all have these people. not enemies in any dramatic sense — just the ones we've quietly moved to the edge of our attention. the coworker whose emails we answer last. the family member we call only when we have to. the neighbor we've trained ourselves not to see.</p><p>most of us would not describe this as a failure of love. we'd describe it as self-preservation, or discernment, or just the practical reality of limited time and energy. and sometimes that's true.</p><p>but then there's the story jesus told about a man beaten and left on the road. a priest walks by. a levite — someone who really should have known better — walks by. and then the samaritan stops. the samaritan is, by every social calculation of the first century, the person with the most reasons not to. he is the outsider. the other. the one with legitimate grievances of his own.</p><p>he stops anyway.</p><p>what jesus is doing in that story is precise. he's not just commending kindness in general. he's identifying the people we've decided are acceptable — and showing that the acceptable people walked on. the one who loved was the one who had every excuse not to.</p><p><strong>the one who loved was the one who had every excuse not to.</strong></p><p>i keep thinking about my neighbor in the hallway. she is not in my inner circle. she is barely in my middle circle — the people i tolerate, the ones i manage with polite neutrality. she is, if i'm honest, in my outer circle. and the outer circle runs on its own, quietly, without me ever having decided anything.</p><p>jesus seems to say that the outer circle is exactly where this gets real. not the dramatic enemies, not the people who require a theology of forgiveness. just the ordinary ones i've stopped paying attention to.</p><p>i don't have a resolution on my neighbor. but i stopped waiting an extra beat last week. that's smaller than i'd like it to be. it might be where it starts.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "\"the one who loved was the one who had every excuse not to.\"",
+  "post-brief": "there is someone in my building i have been avoiding for about a year. nothing dramatic happened. she said something once that landed wrong, i pulled back, and then the distance became the default.",
+  "main-image": null,
+  "title-byline": "a quiet residential hallway in an urban apartment building, suggesting the ordinary proximity of city life and the small distances that can grow between neighbors.",
+  "views": null,
+  "name": "where we draw lines (and why)",
+  "slug": "where-we-draw-lines-love-and-limits"
+}
+item id: 69cace22cdcf2769f062b678
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "the cost of boundary-crossing love | proxima partners",
+  "meta-description": "it’s easy to talk about love as an idea. the harder question is what it actually costs — and whether we’re willing to pay it.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c08fd080415a7553051e0c",
+  "tabs": [
+    "69c09dca3cac7986ad2990b4",
+    "69c22206c7ede1d4fc6a5fa1",
+    "69c33aae5e60542e77d08f86",
+    "69c085d28383a3710d83adf6",
+    "69c085ddd46b33b7eed0d1f7",
+    "69c0a0d2dad175912e825b7b",
+    "69c09000d8c5e5cbe7c9eca5"
+  ],
+  "main-content": "<p>a few months ago i had a conversation that cost me something. a friend had said things that were unkind — not to me, but about someone i care about. i had a choice: ignore it, address it, or let it quietly end the friendship.</p><p>i chose to address it. the conversation went badly. there was no clean resolution. i walked away from it less certain about the friendship than i'd been before — and more certain that the honest thing is rarely the comfortable thing.</p><p>i think about that conversation when i read about jesus on the cross, saying: “father, forgive them. they don't know what they're doing.”</p><p>what strikes me is not the theology of the moment, though that's significant. what strikes me is the specificity. this is not a general posture of forgiveness toward people who wronged him in the past. this is forgiveness, spoken aloud, in the middle of being wronged. that's not idealism. that's a cost being paid in real time.</p><p>paul writes, in his letter to the philippians, about the pattern of jesus: he had status and gave it up, took on the form of a servant, became obedient even when it led somewhere terrible. not a passive state. an active choice to let go of something you could reasonably hold onto.</p><p><strong>the honest thing is rarely the comfortable thing. love at this level is not a feeling — it's a direction.</strong></p><p>i am not very good at this. my instinct, when a relationship gets hard, is to protect myself — to manage my exposure, limit the damage, keep what i have. that's not always wrong. but it's also not the same thing as love.</p><p>there's a real question in here about limits. does this mean we absorb every harm, endure every difficult person, never name what's true? i don't think so. jesus didn't stay silent about what was wrong. paul didn't pretend conflict didn't exist. wisdom and love are not opposites.</p><p>but there is a version of self-protection that has nothing to do with wisdom — one that simply avoids the cost of caring about anyone inconvenient. and i notice that version in myself more than i'd like.</p><p>the conversation with my friend is still unresolved. i don't know where it ends. but i think the honest thing — and maybe the loving thing — was to stay in it rather than quietly walk away. that's a smaller thing than what jesus describes. it might be the same kind of thing.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "\"the honest thing is rarely the comfortable thing. love at this level is not a feeling — it’s a direction.\"",
+  "post-brief": "a few months ago i had a conversation that cost me something. a friend had said things that were unkind. i had a choice: ignore it, address it, or let it quietly end the friendship. i chose to address it. the conversation went badly.",
+  "main-image": null,
+  "title-byline": "two people sit together outdoors in quiet, serious conversation — suggesting the kind of honest, difficult exchange that love sometimes requires.",
+  "views": null,
+  "name": "the cost of boundary-crossing love",
+  "slug": "cost-of-love-that-crosses-boundaries"
+}
+item id: 69cace3a4cae693f89449755
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "loving others without losing yourself | proxima partners",
+  "meta-description": "sustainable love isn’t reckless or exhausted. here’s what it looks like to love people generously without running empty.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c092cd5c80cc7ef09d9860",
+  "tabs": [
+    "69c09dca3cac7986ad2990b4",
+    "69c33aae5e60542e77d08f86",
+    "69c49e12beca94b04b361ec1",
+    "69c085d28383a3710d83adf6",
+    "69c085ddd46b33b7eed0d1f7",
+    "69c22206c7ede1d4fc6a5fa1",
+    "69c09000d8c5e5cbe7c9eca5",
+    "69c09000d8c5e5cbe7c9eca5"
+  ],
+  "main-content": "<p>i burned out once. not dramatically — no single moment i can point to. it was a slow erosion: too many people, too little margin, a growing feeling that i had nothing left to give but kept trying to give it anyway.</p><p>i tell this story because it's relevant to any honest conversation about love. if love costs something — and i believe it does — then the question of how to sustain it matters. a lot.</p><p>because the answer to burnout is not to love less. but it is also not to ignore the fact that you are finite.</p><p>john's gospel records jesus saying something that has stayed with me: “abide in my love.” not “work harder at love.” not “overcome your limitations through sheer effort.” abide. stay connected to the source. the image jesus uses immediately after is a vine — you don't produce fruit by straining; you produce it by staying attached.</p><p>i've been in san francisco long enough to have watched people arrive full of conviction and leave exhausted. the city is beautiful and demanding. the needs are visible and large. the gap between what is and what should be is wide enough to disappear into.</p><p><strong>the answer to burnout is not to love less. but it is also not to ignore the fact that you are finite.</strong></p><p>what i've come to think — slowly, and still imperfectly — is that sustainable love requires knowing who you are when you're not giving anything to anyone. it requires returning, regularly, to something that restores you. for me that's baseball, long walks with the dog past sfmoma and down to the waterfront, and conversations with people who ask how i'm actually doing.</p><p>paul, writing to the romans, describes a kind of love that is genuine but also wise — one that hates what is evil and holds fast to what is good. this is not reckless. it is rooted. it distinguishes between enabling and loving, between self-abandonment and sacrifice.</p><p>there's a version of love that is generous because it is secure — not because the person doing it has unlimited resources, but because they know where to go when the reserves run low. that seems like the kind of love that can actually last.</p><p>i don't think i've solved this. i still run too fast some weeks and too slow on others. but i'm more convinced than i used to be that loving people well over time requires being honest about your own limits — and finding, regularly, what actually fills you back up.</p><p>that's not a small thing. it might be the most important thing.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "\"the answer to burnout is not to love less. but it is also not to ignore the fact that you are finite.\"",
+  "post-brief": "i burned out once. not dramatically — no single moment i can point to. it was a slow erosion: too many people, too little margin, a growing feeling that i had nothing left to give but kept trying to give it anyway.",
+  "main-image": null,
+  "title-byline": "a person walks along a quiet san francisco waterfront in the early morning, evoking the kind of solitary restoration that sustains a generous life.",
+  "views": null,
+  "name": "living it out without losing yourself",
+  "slug": "loving-others-without-losing-yourself"
+}
+item id: 69ceb0c0df7859f2af43f36b
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "what remy started on market street | proxima partners",
+  "meta-description": "two visits to a candy store. a small dog. a young woman who lost one of hers. something is beginning on market street, and i didn't plan any of it.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c092cd5c80cc7ef09d9860",
+  "tabs": [
+    "69c33aae5e60542e77d08f86",
+    "69c0930345fcea86fbc5577d",
+    "69c0a0d2dad175912e825b7b",
+    "69c22206c7ede1d4fc6a5fa1",
+    "69ceb106e494594cb3ad487d",
+    "69ceb10ad5f08e5f266cd156"
+  ],
+  "main-content": "<p>market street moves fast. tech workers, tourists, a man with a shopping cart, a woman on the phone — the sidewalk does not slow for anyone. i was heading home through downtown san francisco after an appointment when the craving hit: chocolate and caramel. i had remy with me, my small dog, and i stepped into the candy store. i did not know i was beginning something.</p><p>most of my life, caring about other people felt like a task i was supposed to perform. every conversation carried pressure i had not asked for — the low hum of expectation, the guilt when i let a moment pass. i moved through encounters scanning for the opening, half-present, half-performing. san francisco quietly dismantled that.</p><p>you cannot walk market street distracted and actually see it. the city asks too much of you. the unhoused man two doors down from the candy store. the young woman behind the counter. the dog that everyone stops for. if you are not paying attention, you miss all of it.</p><p>that first visit, a young woman put my order together. her attention moved immediately to remy. her whole demeanor shifted — the kind that happens only when someone genuinely loves dogs. she did. she owned one. the conversation lasted a minute, ordinary by any measure. nothing stood out.</p><p>the following week i walked back down market street, this time buying for debby rather than for myself. the same young woman was working. when my turn came, i mentioned i had been in the week before, with my dog. her eyes went blank. i added the detail: small dog, black and brown markings, eyes that move around a room like he is already planning something. something came back. she remembered remy.</p><p>i asked how her dog was doing.</p><p>that question opened something. she had recently lost one of her dogs — a dog that weighed only eight pounds. but she told me about him with pride. he had been trained as a service dog, specifically for her. she once had epileptic seizures, and this dog had watched over her. dogs can detect changes before they happen. if she was seizing, he would alert her parents.</p><p>we talked longer than we should have, given that she was working. i kept asking questions. she kept answering. when i finally turned to leave, i heard her voice behind me.</p><p><em>see you next week.</em> she said it with a wide smile.</p><p>i walked home down howard street thinking about oracle park. years ago, a comment like that at the ballpark marked the start of five years of conversations i never planned — the kind that went deeper than either of us expected, season after season. something about that city block, that ballpark, that regular presence.</p><p>is it happening again?</p><p>what i keep learning is that the people i pass every day in downtown san francisco are not waiting for someone to arrive with something to offer them. they are already in the middle of their own stories. janie's story — the dog, the seizures, the eight pounds of loyal animal that watched over her — was already there, fully formed, before i ever walked in. i did not bring it. i just asked one more question.</p><p><strong>each encounter is not an opportunity for me to do something. it is a chance to see what jesus is already doing in someone else.</strong></p><p>that shift makes the whole thing different. lighter, even. jesus is the primary actor. i am just paying attention to what he is already doing.</p><p>what would you notice tomorrow if you walked your regular route a little more slowly? not as a practice. not as a resolution. just — what is already happening in the people around you that you have not asked about yet?</p><p>janie is working again next week. remy may or may not be with me. but i will be paying attention.</p>",
+  "post-content-members-only": "<p>the craving hit right as i passed the candy store on market street. chocolate and caramel. remy was with me, a small dog drawing more attention than he deserves, which is fine because he handles it better than i do. i stepped inside. i did not know i was beginning something.</p>",
+  "featured-quote": "each encounter is not an opportunity for me to do something. it is a chance to see what jesus is already doing in someone else.",
+  "post-brief": "mike stopped for chocolate on market street and ended up in a conversation that felt like the start of something. what do you see when you actually pay attention to the people around you?",
+  "main-image": null,
+  "title-byline": "a person walking a small dog along a busy san francisco sidewalk, storefronts visible in the background. the image captures the ordinary rhythm of city life where unexpected connections begin.",
+  "views": null,
+  "name": "what remy started on market street",
+  "slug": "what-remy-started-on-market-street"
+}
+item id: 69d1e540eb58010e68094305
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "when the game falls apart and people show up",
+  "meta-description": "a giants blowout is nobody's idea of a good night. but something unexpected happens when the scoreboard stops mattering and the people next to you suddenly do.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c092cd5c80cc7ef09d9860",
+  "tabs": [
+    "69c085d28383a3710d83adf6",
+    "69c085ddd46b33b7eed0d1f7",
+    "69c22206c7ede1d4fc6a5fa1",
+    "69c09000d8c5e5cbe7c9eca5",
+    "69c33aae5e60542e77d08f86"
+  ],
+  "main-content": "<p>by the fourth inning, it wasn't really a baseball game anymore.</p><p>the giants were down by something embarrassing. the other team had figured out our pitching, and the crowd had that particular stillness that sets in when everyone knows the math but nobody wants to say it out loud. oracle park on a night like that has its own texture — the vendors keep moving, the lights stay bright, the bay breeze comes in off mccovey cove right on schedule — but the urgency drains out of it. you stop watching and start noticing.</p><p>i had been looking forward to this game. that matters, i think, because the gap between what you expect and what you get is where something interesting sometimes lives.</p><p>so the game fell away, and the people around me came into focus.</p><p>there was the guy two seats over who turned out to have grown up in the excelsior. we talked about the neighborhood for twenty minutes — how it's held its shape compared to most of sf, what it might look like in ten years. the woman behind us had strong opinions about the bullpen and wasn't shy about sharing them. a group down the row was clearly celebrating something, the occasion unclear but the warmth unmistakable. at some point i realized i had laughed more in the last two innings than in the previous six.</p><p><strong>none of this was the plan.</strong> the plan was baseball. the plan was a giants win, maybe a late-inning comeback, the particular satisfaction of watching something go right. none of that happened. and yet something did.</p><p>i've been thinking about what it means to love the people actually in front of you rather than the experience you came for. it's harder than it sounds. we show up to things with expectations shaped, and when those expectations go sideways, the instinct is to manage disappointment, scroll the phone, calculate when it's acceptable to leave. the other people in the row become background noise.</p><p>but there's another way to read a blowout. when the game lets you down, you're released from watching it. the scorecard stops being the point. and in that space — that slightly deflated, nobody's-going-anywhere-early-enough-to-matter space — you're just people sitting next to people.</p><p>perhaps that's closer to what love actually requires. not the ideal conditions. not the evening you planned. the one you got, with the people in it.</p><p>the giants lost. it wasn't close. i walked back up 3rd street toward home in a better mood than i'd expected, which is not something i say every night after a blowout.</p><p>the game was bad. the company was not.</p>",
+  "post-content-members-only": null,
+  "featured-quote": "when the game lets you down, you're released from watching it. the scorecard stops being the point.",
+  "post-brief": "a giants blowout is nobody's idea of a good night. but something unexpected happens when the scoreboard stops mattering and the people next to you suddenly do.",
+  "main-image": null,
+  "title-byline": "two older men laugh together in stadium seats, surrounded by a crowd — the kind of connection that happens when the game stops being the point.",
+  "views": null,
+  "name": "when the game falls apart and people show up",
+  "slug": "when-the-game-falls-apart-people-show-up"
+}
+item id: 69d2bc11d21d9e3d88c78a32
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "the first words jesus said on easter morning",
+  "meta-description": "we know how easter ends. but slow down long enough, and the first words jesus speaks after the resurrection are not what anyone expected.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c092cd5c80cc7ef09d9860",
+  "tabs": [
+    "69ceb10ad5f08e5f266cd156",
+    "69c09dca3cac7986ad2990b4",
+    "69c09000d8c5e5cbe7c9eca5",
+    "69c49e25e41167250ba62e6f",
+    "69ceb106e494594cb3ad487d"
+  ],
+  "main-content": "<p>easter morning in san francisco is clear today. sixty-nine degrees, which means the city is already awake and moving. i am too. and i am catching myself doing what i do every year: rushing past the details of a story i think i already know.</p><p>the problem with knowing the ending is that you stop hearing the story. the resurrection of jesus is among the most familiar events in western history. we know he rises. we know the tomb is empty. we know the disciples are confused and then overjoyed. so we nod along. we pass the familiar words without pausing. but the details of easter morning, if you let them slow you down, are not what you expect.</p><p>the women arrive first. mary magdalene is there, weeping outside the tomb. the disciples have come and gone — peter and john running, looking, not yet understanding, returning to their homes. mary stays. she is alone at the tomb when jesus speaks to her.</p><p>n.t. wright makes a point worth stopping on: if someone in the first century had wanted to invent a fictional story about people seeing jesus, they would never have cast a woman in the starring role. not in that culture. a woman's testimony carried no legal weight. if you were building a persuasive case, you would have chosen differently. the fact that mary is there, named, first — that detail is not a literary device. it is the mark of something recorded as it happened.</p><p>then comes the first thing the risen jesus says. not to the disciples. to mary. and it is not what you expect. no triumph. no \"i told you so.\" no declaration of invincibility or ultimate authority.</p><p>he says: <em>\"go and tell my brothers: i am ascending to my father and your father, to my god and your god.\"</em></p><p>my father and your father. my god and your god.</p><p>that is the shift. not a servant-master relationship surviving death, but something new. something he had named the night before he was arrested: <em>\"i no longer call you servants. i call you friends.\"</em> (john 15:15) the resurrection is not only the end of death. it is the beginning of a different kind of belonging. wright describes it as a new world springing to life — not a reward distributed to followers, but a relationship extended to brothers. jesus could have said anything. he said that.</p><p>if you know the easter story well, i want to ask you to do something harder than reading it. let it surprise you again. read slowly past the part you think you know and look for the place where the story does something you didn't expect.</p><p>the first words jesus speaks after the resurrection are not about what he proved. they are about what he wants you to know: that yahweh is his father and yours. not a ruler to be managed from a distance. not a principle to be applied. a relationship extended to you, in person, on easter morning.</p><p>he rose. and the first thing he did was not declare victory. he used his father's name like it was also yours.</p><p>perhaps it always was.</p>",
+  "post-content-members-only": "<p>easter morning in san francisco is clear today. sixty-nine degrees, which means the city is already awake and moving. i am too. and i am catching myself doing what i do every year: rushing past the details of a story i think i already know. the problem with knowing the ending is that you stop hearing the story.</p>",
+  "featured-quote": "the first words jesus speaks after the resurrection are not about what he proved. they are about what he wants you to know: that yahweh is his father and yours.",
+  "post-brief": "we think we know how easter morning goes. but slow down long enough and the first words jesus says after the resurrection are not what anyone would have predicted. what he says first is worth sitting with.",
+  "main-image": null,
+  "title-byline": "a woman stands alone on a quiet san francisco street in early morning light, looking out toward the bay. the image anchors the solitude and surprise of easter morning before the city fully wakes.",
+  "views": null,
+  "name": "the first words jesus said on easter morning",
+  "slug": "first-words-jesus-easter-morning"
+}
+item id: 69d5416c47b2ec62ff1f2ecb
+field data:
+{
+  "member-only": false,
+  "website-position": null,
+  "meta-title": "what the evening wind still carries | proxima partners",
+  "meta-description": "something was off that week — nothing dramatic, just the weight of ordinary distance. then a passage about breath and new creation stopped me mid-walk along the bay.",
+  "author": "699e12d16ef041f10a195450",
+  "item-category": "69c092cd5c80cc7ef09d9860",
+  "tabs": [
+    "69c085ddd46b33b7eed0d1f7",
+    "69c085d28383a3710d83adf6",
+    "69c33aae5e60542e77d08f86",
+    "69c49e25e41167250ba62e6f",
+    "69c49e12beca94b04b361ec1"
+  ],
+  "main-content": "<p>it was a tuesday evening, somewhere between the end of the workday and the beginning of whatever comes next. remy was pulling toward the bay, past the slow fade of light off the salesforce tower, and the wind was doing what the bay wind does — moving through everything, unbothered by buildings or schedules or the quiet disasters of ordinary life.</p><p>i had been carrying something that week i could not name cleanly. not grief, exactly. not failure. more like the accumulated weight of things that hadn't resolved — small rebellions against the person i was trying to be, conversations that had frayed, the long distance between intention and action. you probably know the feeling. it doesn't require a crisis. it just requires being human for long enough.</p><p>i had been reading tom wright's commentary on john 20 that morning — the passage where jesus appears to the disciples on the evening of the first day of the week. they were locked in a room. he came through the walls. and then he breathed on them.</p><p>wright points out something i had missed every time i'd read that passage. in both hebrew and greek, the same word covers wind, breath, and spirit. so when john writes that jesus breathed on his disciples, he's doing something more than recording a gesture. he's echoing genesis — twice.</p><p>first echo: genesis 3, the evening breeze. god walking through the garden in the wind of the day, coming to find adam after the rebellion. the cool of the evening, the sound of footsteps, and a hiding human.</p><p>second echo: genesis 2, creation itself. god pressing breath into adam's nostrils. the first moment of aliveness.</p><p>john stacks both of these into a single image. the evening of the new creation's first day. the same breath that made the first human, moving again. not a second chance at the old life. something more fundamental — an undoing of the long damage, a re-creation from the inside out.</p><p>i stopped walking for a moment near the water. remy was not interested in theological reflection. but the wind kept moving.</p><p><strong>what stopped me was the word <em>undo</em>.</strong> wright uses it plainly: this wind is come to undo the long effects of primal rebellion.</p><p>i had been thinking about forgiveness, which is real and matters. but undoing is something else. forgiveness clears the ledger. undoing changes the nature of the thing. the disciples weren't just forgiven that evening — they were made into new people. given the spirit not as a reward for faithfulness but as the substance of a new kind of life.</p><p>that is a different frame for what i was carrying. not: you've failed again, here is grace to cover it. but: here is the breath that makes new people. receive it.</p><p>i don't know what you are carrying today. perhaps it has a name, perhaps not. but i wonder if the question is not whether you can resolve it — whether you can try harder, do better, close the gap by force — but whether you are willing to receive a breath that re-makes rather than merely repairs.</p><p>the disciples were locked in a room. they didn't go looking for jesus. he came through the walls to find them. and then he breathed.</p><p>maybe that is still how it works. not the wind we generate. the wind that moves through locked rooms, unbothered by the walls.</p>",
+  "post-content-members-only": "<p>it was a tuesday evening, somewhere between the end of the workday and the beginning of whatever comes next. remy was pulling toward the bay, past the slow fade of light off the salesforce tower, and the wind was doing what the bay wind does — moving through everything, unbothered by buildings or schedules or the quiet disasters of ordinary life. i had been carrying something that week i could not name cleanly. not grief, exactly. not failure.</p>",
+  "featured-quote": "the disciples were locked in a room. they didn't go looking for jesus. he came through the walls to find them. and then he breathed.",
+  "post-brief": "something was off that week — nothing dramatic, just the weight of ordinary distance. then a passage in john 20 about breath and new creation stopped me mid-walk along the bay.",
+  "main-image": null,
+  "title-byline": "evening light reflects off the water along the san francisco bay trail near the embarcadero — the waterfront where the post's walk takes place, capturing the quiet and the wind off the bay.",
+  "views": null,
+  "name": "what the evening wind still carries",
+  "slug": "what-the-evening-wind-still-carries"
+}
+item id: 69ddddda52d9092dd7a1e08b
+field data:
+{
+  "source-type": "71e53182778f9b353163081a6303e631",
+  "blog-item": "69c8db73d4924a12aea3eff6",
+  "article-item": null,
+  "interview-item": null,
+  "sort-order": 1,
+  "is-active": true,
+  "featured": true,
+  "override-title": null,
+  "override-description": null,
+  "override-image": null,
+  "override-category": null,
+  "override-collection-name": "blog",
+  "override-author-name": null,
+  "override-author-image": null,
+  "override-date": null,
+  "override-link": null,
+  "has-been-featured": true,
+  "member-only": true,
+  "name": "homepage featured - what the crowd on saturday made me think about",
+  "slug": "homepage-featured-what-the-crowd-on-saturday-made-me-think-about"
+}
+item id: 699e12d16ef041f10a195460
+field data:
+{
+  "news-line": "the weather in san francisco has been unbearable this month.",
+  "more-info-link-2": null,
+  "name": "san francisco is hot!",
+  "slug": "san-francisco-is-hot"
+}

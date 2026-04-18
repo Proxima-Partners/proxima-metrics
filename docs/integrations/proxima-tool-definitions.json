@@ -1,0 +1,89 @@
+[
+  {
+    "type": "function",
+    "function": {
+      "name": "search_documents",
+      "description": "Semantically search internal Proxima documents indexed from SharePoint.",
+      "parameters": { "type": "object", "properties": { "query": { "type": "string" } }, "required": ["query"] }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "list_sharepoint_files",
+      "description": "List files in the Proxima SharePoint document library.",
+      "parameters": { "type": "object", "properties": { "folderPath": { "type": "string", "description": "Optional subfolder path" } } }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "get_file_content",
+      "description": "Download and extract text from a SharePoint file (PDF, DOCX, txt).",
+      "parameters": { "type": "object", "properties": { "itemId": { "type": "string" }, "fileName": { "type": "string" } }, "required": ["itemId", "fileName"] }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "search_images",
+      "description": "Search the Proxima image library by description, tags, or category.",
+      "parameters": { "type": "object", "properties": { "query": { "type": "string" }, "category": { "type": "string" } }, "required": ["query"] }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "search_stock_photos",
+      "description": "Search stock photo libraries (Pexels, Unsplash, Pixabay, Shutterstock).",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "phrases": { "type": "array", "items": { "type": "string" } },
+          "sources": { "type": "array", "items": { "type": "string", "enum": ["pexels", "unsplash", "pixabay", "shutterstock"] } }
+        },
+        "required": ["phrases"]
+      }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "list_webflow_collections",
+      "description": "List all Webflow CMS collections for the Proxima website.",
+      "parameters": { "type": "object", "properties": {} }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "get_collection_items",
+      "description": "Retrieve items from a Webflow CMS collection.",
+      "parameters": { "type": "object", "properties": { "collectionId": { "type": "string" } }, "required": ["collectionId"] }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "get_collection_item",
+      "description": "Retrieve full field data for a single Webflow CMS item.",
+      "parameters": { "type": "object", "properties": { "collectionId": { "type": "string" }, "itemId": { "type": "string" } }, "required": ["collectionId", "itemId"] }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "create_collection_item",
+      "description": "Create a new draft item in a Webflow CMS collection.",
+      "parameters": { "type": "object", "properties": { "collectionId": { "type": "string" }, "fields": { "type": "object" } }, "required": ["collectionId", "fields"] }
+    }
+  },
+  {
+    "type": "function",
+    "function": {
+      "name": "update_collection_item",
+      "description": "Update an existing item in a Webflow CMS collection.",
+      "parameters": { "type": "object", "properties": { "collectionId": { "type": "string" }, "itemId": { "type": "string" }, "fields": { "type": "object" } }, "required": ["collectionId", "itemId", "fields"] }
+    }
+  }
+]
